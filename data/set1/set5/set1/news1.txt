@@ -1,0 +1,65 @@
+NEW YORK — It was widely known that Amazon.com was working on a color, touch-screen version of its popular Kindle, the gadget that established the market for e-readers.
+
+But founder Jeff Bezos still surprised the world Wednesday by unveiling the Kindle Fire, a polished and potent 7-inch device with a $199 price that will disrupt the surging market for Web tablets and erode the dominance of Apple's iPad..
+
+The Kindle Fire goes on sale Nov. 15, alongside a batch of redesigned black-and-white Kindles also debuting in time for the holidays. They include an entry-level model that starts at $79, a new Kindle Touch at $99 and a Kindle Touch with 3G wireless service at $149.
+
+Electronics stores are littered with iPad challengers — many running the same Google Android software that's inside the Fire — but Amazon is entering the fray with a strong brand, the Kindle's reputation for quality and an array of online media content and services.
+
+Amazon also has given the Fire an innovative new "split" browser called Amazon Silk, which runs partly on the device and partly on the EC2 cloud-computing network that Amazon operates.
+
+Amazon is indexing commonly used images and files from websites and storing them on the cloud network, so they load faster on the browser and improve its performance. The system also anticipates the next page users are likely to view so it loads faster on the device.
+
+Perhaps most important, Amazon is competing with a low-end price on high-end hardware. Bezos made this point over and over during the brief, Apple-esque launch event Wednesday in New York.
+
+He began by displaying quotes by skeptics of the original Kindle, which Amazon launched four years ago.
+
+"What we're doing is making premium products and offering them at non-premium prices," he said, repeatedly.
+
+Apple is expected to hold its dominating lead in the market for Web tablets for the next few years but face growing competition from Amazon, other makers of Android tablets and systems running Microsoft's Windows 8, expected to debut in 2012.
+
+Research firm Gartner this month predicted that 63.6 million tablets will be sold this year, up 261 percent over last year. Annual sales are expected to reach 326.3 million units in 2015.
+
+The Kindle Fire runs applications built for Google's Android platform, which is inside the device, under a special interface resembling a bookshelf that displays recently viewed items.
+
+Files can be loaded to the device via a USB cable, and there's a dual-core processor and 8 gigabytes of internal storage.
+
+Yet this isn't a new PC and doesn't pretend to be one.
+
+Amazon designed the Kindle Fire mostly for consuming — and buying — movies, TV shows, music, books and other media stored in and streamed from Amazon's network. In other words, it's a console plugged into the company's servers, where the heavy lifting is done.
+
+Bezos described the Kindle Fire as a service, with the hardware representing just one element of a user's experience with the device, an experience that revolves around the company's online properties.
+
+"We have Amazon Web Services, Amazon Prime, Kindle, Amazon Instant Video, our MP3 store and the app store for Android," Bezos said. "We asked ourselves, is there some way that we can bring all of these things together into a remarkable product offering that customers would love? The answer is yes — it's called Kindle Fire."
+
+Bezos didn't mention the iPad directly, but mocked its synchronization system, by displaying an iPad's USB cable on screen while talking about how Kindles sync wirelessly and automatically.
+
+He also said Amazon is hoping consumers find the Kindle Fire and services are "a compelling reason to shop from Amazon instead of iTunes."
+
+Questioned afterward, Amazon executives sidestepped questions about competing with the iPad, but noted that the Kindle Fire costs less than half as much as Apple's device, which starts at $499.
+
+Amazon Vice President Dave Limp said consumers may buy multiple Kindles — perhaps a Kindle Touch and a Kindle Fire — for less than the $500 price range of popular tablets.
+
+"I think that people that want to have a media experience, they want to have all their content front and center, they want a world-class Web-browsing experience — they're going to come and flock to Kindle Fire," he said. "It's $199 and, as you see, it hides the complexity of these devices."
+
+Limp and Bezos both said they expect the $79 Kindle to be a huge seller during the holiday season. At that price, it comes with advertising — offers displayed on the home screen when the device is idle. A version without ads costs $109.
+
+Similarly, the Kindle Touch without ads will cost $139 and the Kindle Touch 3G without ads will cost $189.
+
+The $79 model is now on sale, and the Kindle Touch goes on sale Nov. 21.
+
+Amazon isn't yet selling a version of the Kindle Fire with the advertising and lower price.
+
+Executives wouldn't discuss plans beyond the launch for the Kindle Fire line, but it seems likely the company will add different models, including some with larger screens, similar to the way it expanded the Kindle line.
+
+In the meantime, the Amazon Silk browser is what's wowing some observers.
+
+Al Hilwa, program director at IDC research firm, said it may ease bandwidth challenges of mobile devices by letting Amazon servers handle some browsing.
+
+"In one fell swoop, Amazon harnesses its commanding lead in cloud services, the content richness of a leading online retailer and its successful Kindle business strategy to deliver what might become one of [the] most effective antidotes to the mobile bandwidth crunch," he said in a note sent after the launch.
+
+Given the big investment Amazon is making in the browser technology, it seems likely it will be extended to other devices, similar to the way the Kindle reading software was extended from Amazon's device to most computing platforms.
+
+Amazon executives didn't deny this is a possibility.
+
+"Stay tuned," said a smiling Jon Jenkins, director of Amazon Silk..
